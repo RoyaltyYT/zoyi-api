@@ -1,2 +1,1 @@
-admin:admin123
-faxxlore:123
+admin:admin123:faxxlore:123
