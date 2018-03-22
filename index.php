@@ -11,7 +11,7 @@
          var ParametersArray = FullURL.split('&');
          for (var i = 0; i < ParametersArray.length; i++){
             var CurrentParameter = ParametersArray[i].split('=');
-            if (CurrentParameter[0] === Parameter){
+            if (CurrentParameter[0] === p){
                return CurrentParameter[1];
             };
          };
